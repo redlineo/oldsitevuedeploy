@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkredlineo_github_io"]=self["webpackChunkredlineo_github_io"]||[]).push([[443],{7381:function(n,e,u){u.r(e),u.d(e,{default:function(){return h}});var i=u(3396);const t={class:"about"},r=(0,i._)("h1",null,"This is an about page",-1),a=[r];function o(n,e){return(0,i.wg)(),(0,i.iD)("div",t,a)}var s=u(89);const c={},l=(0,s.Z)(c,[["render",o]]);var h=l}}]);
+//# sourceMappingURL=about.58afc6d8.js.map
